@@ -1,2 +1,2 @@
 # Script-Tracker-MouseGames
-Script para tracker el mouse mientras juegas algun videojuego y crear una grafica respecto al recorrido durante la sesion de juego.
+Script para el registro de los movimientos del Mouse en determinada actividad, Generando una grafica para un referencia visual, asi como un archivo con las cordenadas
