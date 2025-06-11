@@ -1,6 +1,7 @@
 # Ignorar el directorio del entorno virtual
 venv/
 Trajectories/
+build/
 
 # Archivos de caché de Python
 __pycache__/
