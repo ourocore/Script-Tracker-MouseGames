@@ -1,5 +1,6 @@
 # Ignorar el directorio del entorno virtual
 venv/
+Trajectories/
 
 # Archivos de caché de Python
 __pycache__/
@@ -17,5 +18,7 @@ Thumbs.db # Windows
 *.sublime-workspace
 
 # Archivos de logs o datos temporales (si los genera tu app)
+*.spec
+*.csv
 *.log
 *.sqlite3 # Si usas SQLite para la base de datos de desarrollo
